@@ -46,6 +46,8 @@ MANIFEST
 basic/node_modules
 myreact/node_modules
 lifting-state/node_modules
+composition-vs-inheritance/node_modules
+higher-order-components/node_modules
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
